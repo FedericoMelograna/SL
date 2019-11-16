@@ -1,6 +1,6 @@
-# Statiscal Learning
+# Statistical Learning
 
-A project in which we have analyzed various Outlier Detenction tecniques in a Unsupervised environment and compare their performance in different settings and test-set
+A project in which we analyzed various outlier detection techniques in an unsupervised environment and compared their performance in different settings and test sets
 
 SL Project visibile al sito: https://federicomelograna.github.io/SL/
 
